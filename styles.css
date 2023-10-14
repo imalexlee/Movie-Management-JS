@@ -1,0 +1,14 @@
+.contentBox {
+  border: 1px #909a93 solid;
+  padding: 1rem;
+  border-radius: 15px;
+  width: fit-content;
+}
+body {
+  background-color: #b4c1b8;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
